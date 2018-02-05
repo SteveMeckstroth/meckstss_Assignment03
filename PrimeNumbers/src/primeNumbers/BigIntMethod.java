@@ -33,7 +33,7 @@ public class BigIntMethod {
 	 * Tests if a given BigInteger is prime
 	 */
 	// Method
-	public boolean testIfPrime(BigInteger bigInt) {
+	public boolean testIfPrime() {
 		boolean isPrime = true;
 		// flag
 		if (bigInt.intValue() == 2) { // Return true if 2
