@@ -10,12 +10,22 @@
 package primeNumbers;
 
 import java.math.BigInteger;
-
+/**
+ * 
+ * @author Stephen Meckstroth
+ * Main class determines if a number is prime, and also calls another class that deteremines if a number is prime.
+ * The results from both independent calculations are then compared to see if they agree
+ */
 public class Main {
-
+	//if true then program will output useful messages to the console
+	private static Boolean showDebugMessages = true;
+	
 	public static void main(String[] args) {
 		//Instantiate the Main class
 		Main m = new Main();
+		
+		Boolean mainClassIsPrime = true;
+		Boolean bigIntClassIsPrime = true;
 		
 		//BigInteger bi = new bigInteger("110384710234871028347103741027412390471");
 		BigInteger bi = new BigInteger("7");
