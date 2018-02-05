@@ -7,7 +7,7 @@
  * Citations: N/A
  */
 
-package primeNumbers;
+package assignment03;
 
 import java.math.BigInteger;
 /**

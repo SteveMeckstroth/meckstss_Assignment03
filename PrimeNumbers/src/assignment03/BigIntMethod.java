@@ -3,7 +3,7 @@
  * Bill Nicholson and Evan Batsch
  * batschew@mail.uc.edu
  */
-package primeNumbers;
+package assignment03;
 
 import java.math.BigInteger;
 
