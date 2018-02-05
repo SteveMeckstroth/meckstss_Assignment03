@@ -1,10 +1,11 @@
 /**
- * @author Stephen Meckstroth
  * Assignment 03
- * Course IT2045 Section 001
- * Due DAte: Jan 30, 2018
+ * @author Stephen Meckstroth
  * Description: Create an ecipse java project that determines if a number is prime or not
- * Citations: N/A
+ * Due Date: Jan 30, 2018
+ * Course: IT2045 Section 001
+ * email: meckstss@mail.uc.edu
+ * Citations: https://docs.oracle.com/javase/7/docs/api/java/math/BigInteger.html
  */
 
 package assignment03;
